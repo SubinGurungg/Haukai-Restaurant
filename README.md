@@ -1,1 +1,2 @@
-# Haukai-Restaurant
+# Haukau
+The Haukai Restaurant
